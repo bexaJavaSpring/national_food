@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "perefix": "🍜 ",
+    "name": "Birinchi taom"
+  },
+  {
+    "id": 2,
+    "perefix": "🍲 ",
+    "name": "Ikkinchi taom"
+  },
+  {
+    "id": 3,
+    "perefix": "🍚 ",
+    "name": "Osh"
+  },
+  {
+    "id": 4,
+    "perefix": "🍱 ",
+    "name": "Yevropa taomlari"
+  },
+  {
+    "id": 5,
+    "perefix": "🍛 ",
+    "name": "Uyg'ur taomlari"
+  },
+  {
+    "id": 6,
+    "perefix": "🥂 ",
+    "name": "Ichimliklar"
+  },
+  {
+    "id": 7,
+    "perefix": "🥗 ",
+    "name": "Salatlar"
+  },
+  {
+    "id": 8,
+    "perefix": "🍖 ",
+    "name": "Kavoblar"
+  },
+  {
+    "id": 9,
+    "perefix": "🥟 ",
+    "name": "Somsalar"
+  },
+  {
+    "id": 10,
+    "perefix": "🥖 ",
+    "name": "Non"
+  },
+  {
+    "id": 11,
+    "perefix": "🫓 ",
+    "name": "NORIN"
+  },
+  {
+    "id": 12,
+    "perefix": "🐠 ",
+    "name": "SAZAN BALIQ"
+  }
+]

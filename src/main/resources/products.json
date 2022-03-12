@@ -1,0 +1,492 @@
+[
+  {
+    "id": 1,
+    "categoryId": 1,
+    "name": "MASTAVA",
+    "price": 8500.0,
+    "imageUrl": "https://drive.google.com/file/d/1Qs4Et2ju7Af0Tfr746c-cWqZ5sRjvs0I/view?usp=sharing"
+  },
+  {
+    "id": 2,
+    "categoryId": 1,
+    "name": "CHUCHVARA",
+    "price": 9500.0,
+    "imageUrl": "https://drive.google.com/file/d/1-eQK67P7XB3cdbiXXL7yioC8pVkz-H3y/view?usp=sharing"
+  },
+  {
+    "id": 3,
+    "categoryId": 1,
+    "name": "OKROSHKA",
+    "price": 20500.0,
+    "imageUrl": "https://drive.google.com/file/d/16Ry9rKiBL_61XDhzvHgqWkibK4kRhwp-/view?usp=sharing"
+  },
+  {
+    "id": 4,
+    "categoryId": 1,
+    "name": "KO'ZA SHO'RVA",
+    "price": 19000.0,
+    "imageUrl": "https://drive.google.com/file/d/1Mek2MqEY0ISfR11sKaELxLk78NC9BL2J/view?usp=sharing"
+  },
+  {
+    "id": 5,
+    "categoryId": 1,
+    "name": "XASH",
+    "price": 25000.0,
+    "imageUrl": "https://drive.google.com/file/d/1VZMMhvizc40foE2_t0Oo1V6Il3VcGB-z/view?usp=sharing"
+  },
+  {
+    "id": 6,
+    "categoryId": 1,
+    "name": "QAYNATMA SHO'RVA",
+    "price": 26000.0,
+    "imageUrl": "https://drive.google.com/file/d/1IG7keOJsb5uzjIcvPulTvsTwdm6fylhY/view?usp=sharing"
+  },
+  {
+    "id": 7,
+    "categoryId": 1,
+    "name": "NAMPAR",
+    "price": 23000.0,
+    "imageUrl": "https://drive.google.com/file/d/1daWT6LYdagXck6O351RlEBi-6Yoj2Hie/view?usp=sharing"
+  },
+  {
+    "id": 8,
+    "categoryId": 2,
+    "name": "TOVUQ QOZON KABOB",
+    "price": 11500.0,
+    "imageUrl": "https://drive.google.com/file/d/1-Fl4dY-HjqDn_wOPcZzd84ioUxLT_3GB/view?usp=sharing"
+  },
+  {
+    "id": 9,
+    "categoryId": 2,
+    "name": "TUSHONKA",
+    "price": 19500.0,
+    "imageUrl": ""
+  },
+  {
+    "id": 10,
+    "categoryId": 2,
+    "name": "HONIM",
+    "price": 20500.0,
+    "imageUrl": "https://drive.google.com/file/d/1vCmlRACpoBw4DX14mbBQ8A98StxIvmDj/view?usp=sharing"
+  },
+  {
+    "id": 11,
+    "categoryId": 2,
+    "name": "JIZ MOL",
+    "price": 22500.0,
+    "imageUrl": "https://drive.google.com/file/d/1LaYZymCeaxAzuYprUK3kiVbLndj_F4In/view?usp=sharing"
+  },
+  {
+    "id": 12,
+    "categoryId": 2,
+    "name": "QOZON KABOB",
+    "price": 19000.0,
+    "imageUrl": "https://drive.google.com/file/d/1rVoDK_7lPx25qVUL1VM3QYObz5qhoV-M/view?usp=sharing"
+  },
+  {
+    "id": 13,
+    "categoryId": 2,
+    "name": "JIZ QO'Y",
+    "price": 26000.0,
+    "imageUrl": "https://drive.google.com/file/d/1tzNptw9Q0vi_R4U_5j0sghEjV-2oKybr/view?usp=sharing"
+  },
+  {
+    "id": 14,
+    "categoryId": 2,
+    "name": "MANTI",
+    "price": 17000.0,
+    "imageUrl": "https://drive.google.com/file/d/1D9XBgGy0SmmpozGfACkk3ID08Ac883mm/view?usp=sharing"
+  },
+  {
+    "id": 15,
+    "categoryId": 2,
+    "name": "HASIB 300gr",
+    "price": 27000.0,
+    "imageUrl": "https://drive.google.com/file/d/1JKUjoRscZwPZowuA1UxnlT-Y_8dI0GgO/view?usp=sharing"
+  },
+  {
+    "id": 16,
+    "categoryId": 2,
+    "name": "BESH BARMOQ",
+    "price": 30000.0,
+    "imageUrl": "https://drive.google.com/file/d/1ewRq9qrLhZhWKLJ7od85oPtCOSa5HtLC/view?usp=sharing"
+  },
+  {
+    "id": 17,
+    "categoryId": 2,
+    "name": "HALIM",
+    "price": 26000.0,
+    "imageUrl": "https://drive.google.com/file/d/1ioLuhh41olKK0kS_E9xysPaLnkwMLDcZ/view?usp=sharing"
+  },
+  {
+    "id": 18,
+    "categoryId": 2,
+    "name": "NO'XOT SHO'RAK",
+    "price": 25000.0,
+    "imageUrl": "https://drive.google.com/file/d/1lWcSd5R9Ix__Ix6ekdIr5GVu0gz49RB1/view?usp=sharing"
+  },
+  {
+    "id": 19,
+    "categoryId": 3,
+    "name": "OSH",
+    "price": 1500.0,
+    "imageUrl": "https://drive.google.com/file/d/1LX-OEazSz0lqfYlXVMADMkdO9MqkAorf/view?usp=sharing"
+  },
+  {
+    "id": 20,
+    "categoryId": 3,
+    "name": "QAZI PARRAK",
+    "price": 3500.0,
+    "imageUrl": "https://drive.google.com/file/d/1M_-hDSBrKfk5OwBn8Z9xXkSGZN5cke2Z/view?usp=sharing"
+  },
+  {
+    "id": 21,
+    "categoryId": 3,
+    "name": "BEDANA TUXUM",
+    "price": 2000.0,
+    "imageUrl": "https://drive.google.com/file/d/1K-5EjNprDQq2f2_auXonmGCiqR5QA0jb/view?usp=sharing"
+  },
+  {
+    "id": 22,
+    "categoryId": 4,
+    "name": "KIYEVSKIY",
+    "price": 21500.0,
+    "imageUrl": "https://drive.google.com/file/d/1NGC_ZWU12GgIpI7WpejAgO47HIBlcKNR/view?usp=sharing"
+  },
+  {
+    "id": 23,
+    "categoryId": 4,
+    "name": "BIFSHTEKS",
+    "price": 18500.0,
+    "imageUrl": "https://drive.google.com/file/d/1v3AvAWCrc1m3pqmgLVSZiUqJLfScdHlO/view?usp=sharing"
+  },
+  {
+    "id": 24,
+    "categoryId": 4,
+    "name": "BEFSTROGANOV",
+    "price": 14500.0,
+    "imageUrl": "https://drive.google.com/file/d/1-LTSV-JHaufS7rmraGBTmGUHI1n1ICZu/view?usp=sharing"
+  },
+  {
+    "id": 25,
+    "categoryId": 4,
+    "name": "GARNIR",
+    "price": 19500.0,
+    "imageUrl": "https://drive.google.com/file/d/1ecAN2AeRe5OYAzlQCk7pysZ0EadF6ao4/view?usp=sharing"
+  },
+  {
+    "id": 26,
+    "categoryId": 4,
+    "name": "O'ZBEGIM KOTLETI",
+    "price": 18000.0,
+    "imageUrl": "https://drive.google.com/file/d/1DQIiAFD2DlZ22sR7whdgTzYy3Fwt3RWF/view?usp=sharing"
+  },
+  {
+    "id": 27,
+    "categoryId": 5,
+    "name": "AYRIM SAY",
+    "price": 14500.0,
+    "imageUrl": "https://drive.google.com/file/d/1-lgop_JkpvwdAvhkegisApmXvzyLSlPe/view?usp=sharing"
+  },
+  {
+    "id": 28,
+    "categoryId": 5,
+    "name": "GANPAN",
+    "price": 23500.0,
+    "imageUrl": "https://drive.google.com/file/d/1ugAdixvsH0GR2eKe4gSsrK36DgI5Hp_1/view?usp=sharing"
+  },
+  {
+    "id": 29,
+    "categoryId": 5,
+    "name": "GO'SHT SAY",
+    "price": 20500.0,
+    "imageUrl": "https://drive.google.com/file/d/14JpDrnd-0Uq59QoQSHAFp_c_1bn-D9u-/view?usp=sharing"
+  },
+  {
+    "id": 30,
+    "categoryId": 5,
+    "name": "QO'VURMA LAG'MON",
+    "price": 22500.0,
+    "imageUrl": "https://drive.google.com/file/d/1ci8kHz6wwksStF7HajiuZuBtGipltNh-/view?usp=sharing"
+  },
+  {
+    "id": 31,
+    "categoryId": 5,
+    "name": "LAG'MON",
+    "price": 17000.0,
+    "imageUrl": "https://drive.google.com/file/d/19GGJmPSVsyvYr00IA3ysSDOQRiOx6QDC/view?usp=sharing"
+  },
+  {
+    "id": 32,
+    "categoryId": 5,
+    "name": "SOKORO(qo'y go'shti)",
+    "price": 24000.0,
+    "imageUrl": "https://drive.google.com/file/d/16JiQUzgsxEfvib1iOE7FvKyogvGw_6mp/view?usp=sharing"
+  },
+  {
+    "id": 33,
+    "categoryId": 5,
+    "name": "SOKORO(tovuq go'shti)",
+    "price": 20000.0,
+    "imageUrl": "https://drive.google.com/file/d/1sKgC26g2YOfP2593hzh5M06LD_3W2V7N/view?usp=sharing"
+  },
+  {
+    "id": 34,
+    "categoryId": 5,
+    "name": "TOVUQ SAY",
+    "price": 19000.0,
+    "imageUrl": "https://drive.google.com/file/d/1Qac8oShi3Pn3YkNahBtz7po38J3hqlKm/view?usp=sharing"
+  },
+  {
+    "id": 35,
+    "categoryId": 5,
+    "name": "TUXUM SAY",
+    "price": 15000.0,
+    "imageUrl": "https://drive.google.com/file/d/1609uGOjq21B6gnpOXJOdrg0tYzK3Y1XK/view?usp=sharing"
+  },
+  {
+    "id": 36,
+    "categoryId": 5,
+    "name": "SUMBORD",
+    "price": 24000.0,
+    "imageUrl": "https://drive.google.com/file/d/1CdxdWxz-Pg9tPDCOTflWQjYaz4ZL01Xz/view?usp=sharing"
+  },
+  {
+    "id": 37,
+    "categoryId": 6,
+    "name": "KOMPOT 0.5L",
+    "price": 6500.0,
+    "imageUrl": "https://drive.google.com/file/d/1V8PcguWb0xMTVm_C6AXzr3Ln40KfSytb/view?usp=sharing"
+  },
+  {
+    "id": 38,
+    "categoryId": 6,
+    "name": "KOMPOT 1L",
+    "price": 11000.0,
+    "imageUrl": "https://drive.google.com/file/d/1V8PcguWb0xMTVm_C6AXzr3Ln40KfSytb/view?usp=sharing"
+  },
+  {
+    "id": 39,
+    "categoryId": 6,
+    "name": "PEPSI 0.5L",
+    "price": 6000.0,
+    "imageUrl": "https://drive.google.com/file/d/1Gb2-BbdZ4NOiuyfBEZKr-R9xfkWEZ4wp/view?usp=sharing"
+  },
+  {
+    "id": 40,
+    "categoryId": 6,
+    "name": "PEPSI 1L",
+    "price": 10000.0,
+    "imageUrl": "https://drive.google.com/file/d/1Gb2-BbdZ4NOiuyfBEZKr-R9xfkWEZ4wp/view?usp=sharing"
+  },
+  {
+    "id": 41,
+    "categoryId": 6,
+    "name": "PEPSI 1.5L",
+    "price": 12000.0,
+    "imageUrl": "https://drive.google.com/file/d/1Gb2-BbdZ4NOiuyfBEZKr-R9xfkWEZ4wp/view?usp=sharing"
+  },
+  {
+    "id": 42,
+    "categoryId": 6,
+    "name": "SUV 0.5L",
+    "price": 3000.0,
+    "imageUrl": "https://drive.google.com/file/d/1JptL-qyMs5ai8tHuvr7EFunA7L8svieQ/view?usp=sharing"
+  },
+  {
+    "id": 43,
+    "categoryId": 6,
+    "name": "SUV 1L",
+    "price": 5000.0,
+    "imageUrl": "https://drive.google.com/file/d/1JptL-qyMs5ai8tHuvr7EFunA7L8svieQ/view?usp=sharing"
+  },
+  {
+    "id": 44,
+    "categoryId": 6,
+    "name": "SUV 1.5L",
+    "price": 7000.0,
+    "imageUrl": "https://drive.google.com/file/d/1JptL-qyMs5ai8tHuvr7EFunA7L8svieQ/view?usp=sharing"
+  },
+  {
+    "id": 45,
+    "categoryId": 7,
+    "name": "BAHOR",
+    "price": 6500.0,
+    "imageUrl": "https://drive.google.com/file/d/1qIfIozDHMp49o4w3OM23HL57ZJV9eiVY/view?usp=sharing"
+  },
+  {
+    "id": 46,
+    "categoryId": 7,
+    "name": "ACHCHIQ-CHUCHUK",
+    "price": 8000.0,
+    "imageUrl": "https://drive.google.com/file/d/1jVJ5dRmVvoM5ekjV4Jy5nRgmnBHvdVqf/view?usp=sharing"
+  },
+  {
+    "id": 47,
+    "categoryId": 7,
+    "name": "VINERET",
+    "price": 9000.0,
+    "imageUrl": "https://drive.google.com/file/d/1vsAHZQ3KvyJcR7_YGPlZIJTt0c6hRpOQ/view?usp=sharing"
+  },
+  {
+    "id": 48,
+    "categoryId": 7,
+    "name": "MOL GO'SHTILI ",
+    "price": 12000.0,
+    "imageUrl": "https://drive.google.com/file/d/1JASS_nSvcqJ0hFyxsDHmb748x5y7i0Fo/view?usp=sharing"
+  },
+  {
+    "id": 49,
+    "categoryId": 7,
+    "name": "DAMISKIY KAPRIZ",
+    "price": 14000.0,
+    "imageUrl": "https://drive.google.com/file/d/1-Lqj2lDSsiWtQSCw10EF22j2iaVsECIr/view?usp=sharing"
+  },
+  {
+    "id": 50,
+    "categoryId": 7,
+    "name": "KUKURUZA",
+    "price": 9000.0,
+    "imageUrl": "https://drive.google.com/file/d/1qDRGRwk9_dk6Mi880KSbPmYp7aAcZwvj/view?usp=sharing"
+  },
+  {
+    "id": 51,
+    "categoryId": 7,
+    "name": "OLIVIE",
+    "price": 10000.0,
+    "imageUrl": "https://drive.google.com/file/d/1Kc861L9ch9xJkmJG35qub_WwanMZt3Jp/view?usp=sharing"
+  },
+  {
+    "id": 52,
+    "categoryId": 7,
+    "name": "BARRA ASSORTI",
+    "price": 32000.0,
+    "imageUrl": "https://drive.google.com/file/d/1AIQnW9bzUf95okRLkbi6jMvM_WHLComT/view?usp=sharing"
+  },
+  {
+    "id": 53,
+    "categoryId": 7,
+    "name": "FANTAZIYA",
+    "price": 10000.0,
+    "imageUrl": "https://drive.google.com/file/d/1sm5F3TZd_R56ywiDqW9YnH4AXJF0h3w2/view?usp=sharing"
+  },
+  {
+    "id": 54,
+    "categoryId": 7,
+    "name": "QATIQ",
+    "price": 7000.0,
+    "imageUrl": "https://drive.google.com/file/d/1CqF-pbO81vTIZ1KBBXHUed5ax-poWe4Y/view?usp=sharing"
+  },
+  {
+    "id": 55,
+    "categoryId": 7,
+    "name": "MUJSKOY KAPRIZ",
+    "price": 14000.0,
+    "imageUrl": "https://drive.google.com/file/d/1Pq45B9fq-BWCNZnSRXE0nIjuPVKyWvrr/view?usp=sharing"
+  },
+  {
+    "id": 56,
+    "categoryId": 7,
+    "name": "YAPONISKIY",
+    "price": 11000.0,
+    "imageUrl": "https://drive.google.com/file/d/1H38gLRGFMk6_BrO3qh-D2v8CgPuL6c-r/view?usp=sharing"
+  },
+  {
+    "id": 57,
+    "categoryId": 7,
+    "name": "FRANSUZISKIY",
+    "price": 12000.0,
+    "imageUrl": "https://drive.google.com/file/d/1wj8mA9CDkJRCCNdGU2la9AJ-nYANtipR/view?usp=sharing"
+  },
+  {
+    "id": 58,
+    "categoryId": 7,
+    "name": "CEZAR",
+    "price": 9000.0,
+    "imageUrl": "https://drive.google.com/file/d/1JrCNU1WKYoswskzthDMU3Q1y_x5_eL3p/view?usp=sharing"
+  },
+  {
+    "id": 59,
+    "categoryId": 8,
+    "name": "TOVUQ KABOB",
+    "price": 9000.0,
+    "imageUrl": "https://drive.google.com/file/d/1PRtUIEB6kT3EHttYAPnx3GXYF2aTwK0V/view?usp=sharing"
+  },
+  {
+    "id": 60,
+    "categoryId": 8,
+    "name": "QIYMA-KABOB",
+    "price": 10000.0,
+    "imageUrl": "https://drive.google.com/file/d/1T0Ru6hwLPCCJZxO_vxfxOc0MsFXGO-tj/view?usp=sharing"
+  },
+  {
+    "id": 61,
+    "categoryId": 8,
+    "name": "JAZ KABOB",
+    "price": 12000.0,
+    "imageUrl": "https://drive.google.com/file/d/1DbZ2j-Iu4dOF9IUGmMlUkPpqiyxkDYIz/view?usp=sharing"
+  },
+  {
+    "id": 62,
+    "categoryId": 8,
+    "name": "JIGAR KABOB ",
+    "price": 11000.0,
+    "imageUrl": "https://drive.google.com/file/d/1PMUqSiNfU8jcrpa75NVxXYnV6lxAp_B9/view?usp=sharing"
+  },
+  {
+    "id": 63,
+    "categoryId": 9,
+    "name": "GO'SHTLI SOMSA",
+    "price": 5000.0,
+    "imageUrl": "https://drive.google.com/file/d/1uDzkf5jTumjI9ObjBElrjCIXHtLOpK5R/view?usp=sharing"
+  },
+  {
+    "id": 64,
+    "categoryId": 9,
+    "name": "KARTOSHKALI FREE",
+    "price": 3500.0,
+    "imageUrl": "https://drive.google.com/file/d/1SKK6yEMSKDfrZy4Hw17N1xpBHLNI1Dr6/view?usp=sharing"
+  },
+  {
+    "id": 65,
+    "categoryId": 10,
+    "name": "NON",
+    "price": 3000.0,
+    "imageUrl": "https://drive.google.com/file/d/13Ae7pqOTcicjA26pl4QuatL0XcwcSm3l/view?usp=sharing"
+  },
+  {
+    "id": 66,
+    "categoryId": 11,
+    "name": "NORIN (qazisiz)",
+    "price": 16000.0,
+    "imageUrl": "https://drive.google.com/file/d/1WNDTDAC_O-LZZNWZgSZikMwZxplihLo5/view?usp=sharing"
+  },
+  {
+    "id": 67,
+    "categoryId": 11,
+    "name": "QAZI (parrak)",
+    "price": 3000.0,
+    "imageUrl": "https://drive.google.com/file/d/11RXqklTBHSKZdjMz8R5f_SRM8i31z7cL/view?usp=sharing"
+  },
+  {
+    "id": 68,
+    "categoryId": 12,
+    "name": "SAZAN 1 DONA",
+    "price": 29000.0,
+    "imageUrl": "https://drive.google.com/file/d/1MZKYbCb3BB_1Rjl4pObt13_QMOTfAwOV/view?usp=sharing"
+  } ,
+  {
+    "id": 69,
+    "categoryId": 6,
+    "name": "COLA 0.5L",
+    "price": 6000.0,
+    "imageUrl": "https://drive.google.com/file/d/1JwL-mg59U4Uixcl_1RMReb1MNbnXcP5h/view?usp=sharing"
+  },
+  {
+    "id": 70,
+    "categoryId": 6,
+    "name": "FANTA 0.5L",
+    "price": 6000.0,
+    "imageUrl": "https://drive.google.com/file/d/1YjOtYWgR4nGkGi2qxuCn6dDXEff2Vohw/view?usp=sharing"
+  }
+]

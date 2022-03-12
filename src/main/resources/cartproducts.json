@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "cartId": 1671746260,
+    "productId": 57,
+    "amount": 1
+  },
+  {
+    "id": 2,
+    "cartId": 1671746260,
+    "productId": 2,
+    "amount": 1
+  },
+  {
+    "id": 4,
+    "cartId": 1671746260,
+    "productId": 24,
+    "amount": 1
+  },
+  {
+    "id": 5,
+    "cartId": 1671746260,
+    "productId": 69,
+    "amount": 1
+  },
+  {
+    "id": 6,
+    "cartId": 1671746260,
+    "productId": 11,
+    "amount": 1
+  },
+  {
+    "id": 7,
+    "cartId": 1671746260,
+    "productId": 65,
+    "amount": 2
+  },
+  {
+    "id": 1,
+    "cartId": 2013573716,
+    "productId": 21,
+    "amount": 5
+  },
+  {
+    "id": 2,
+    "cartId": 2013573716,
+    "productId": 68,
+    "amount": 6
+  },
+  {
+    "id": 3,
+    "cartId": 2013573716,
+    "productId": 64,
+    "amount": 6
+  },
+  {
+    "id": 4,
+    "cartId": 2124992435,
+    "productId": 63,
+    "amount": 1
+  },
+  {
+    "id": 5,
+    "cartId": 2124992435,
+    "productId": 69,
+    "amount": 1
+  }
+]
